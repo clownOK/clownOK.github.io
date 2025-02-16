@@ -7,7 +7,4 @@ categories: [diary]
 ---
 # Hello World
 
-Please like, comment.
-
-## Heading 2
-
+妈呀，终于创建博客了，第一篇文章，不知道要说什么，只希望自己快点看几本书。
