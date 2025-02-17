@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-tag: Random Thoughts
+tags : [random thoughts]
 date: 16-02-2025
 categories: [diary]
 
